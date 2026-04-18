@@ -1,5 +1,5 @@
 # OOP-Nexus-II
-Data Structures and Algorithms I-Problem-Solveing
+Object-Oriented Programming II-Problem-Solveing
 <br>
 B.Sc. Engg. in CSE, BAUST(On-going)
 <br>
